@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon May 15 15:03:36 PDT 2017
+2.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_tip_calculator.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\preferences.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_about.png
+5.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+9.set=ANDROID_RESOURCE
+9.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+10.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_about.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch08_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_settings.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
